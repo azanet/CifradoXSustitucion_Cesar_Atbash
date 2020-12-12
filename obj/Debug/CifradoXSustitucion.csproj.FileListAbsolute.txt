@@ -1,0 +1,10 @@
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\CifradoXSustitucion\bin\Debug\CifradoXSustitucion.exe.config
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\CifradoXSustitucion\bin\Debug\CifradoXSustitucion.exe
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\CifradoXSustitucion\bin\Debug\CifradoXSustitucion.pdb
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\CifradoXSustitucion\obj\Debug\CifradoXSustitucion.csprojAssemblyReference.cache
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\CifradoXSustitucion\obj\Debug\CifradoXSustitucion.FrmPrincipal.resources
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\CifradoXSustitucion\obj\Debug\CifradoXSustitucion.Properties.Resources.resources
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\CifradoXSustitucion\obj\Debug\CifradoXSustitucion.csproj.GenerateResource.cache
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\CifradoXSustitucion\obj\Debug\CifradoXSustitucion.csproj.CoreCompileInputs.cache
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\CifradoXSustitucion\obj\Debug\CifradoXSustitucion.exe
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\CifradoXSustitucion\obj\Debug\CifradoXSustitucion.pdb
